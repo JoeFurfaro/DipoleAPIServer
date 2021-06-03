@@ -1,0 +1,3 @@
+class FoodOption {}
+
+class FoodOptionValue {}
